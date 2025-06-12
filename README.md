@@ -1,4 +1,4 @@
-# Eletric Vehicles Data Analysis
+# Electric Vehicles Data Analysis
 
 ## Description
 This interactive Tableau dashboard offers a detailed analysis of electric vehicle (EV) adoption across the United States. It presents key metrics such as the total number of EVs, average electric range, and the distribution between Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs). The dashboard enables users to explore trends over time, geographic distribution by state, leading vehicle makes and models, and eligibility status under the Clean Alternative Fuel Vehicle (CAFV) program. With dynamic filtering options and visually engaging charts, the dashboard supports data-driven insights into the current state of EV usage, facilitating strategic planning and policy development.
@@ -6,7 +6,7 @@ This interactive Tableau dashboard offers a detailed analysis of electric vehicl
 
 ## Project Overview
 ### 1. Title:
-Eletric Vehicles Data Analysis
+Electric Vehicles Data Analysis
 <br><br>
 ### 2. Objective:
 - To analyze and visualize key trends in electric vehicle adoption across the United States.
